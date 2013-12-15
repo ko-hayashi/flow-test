@@ -3,7 +3,10 @@
 #include	<string.h>
 
 
-int	hoge_aaa()
+int	hoge_aaa(
+	int	pi_a,
+	int	pi_b
+)
 {
-	return	0;
+	return	pi_a * pi_b;
 }
