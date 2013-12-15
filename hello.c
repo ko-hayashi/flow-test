@@ -4,6 +4,6 @@
 
 int	main()
 {
-	printf("Hello word\n");
+	printf("jjj\n");
 	return	0;
 }
