@@ -2,7 +2,9 @@
 #include	<stdlib.h>
 #include	<string.h>
 
-
+/**
+ * for release
+ */
 int	hoge_aaa(
 	int	pi_a,
 	int	pi_b,
